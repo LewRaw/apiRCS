@@ -1,12 +1,11 @@
 {
-  "v1": [
-    "apps": {
-      "rcs": {
-        "campaigns": [
-          { "id": 1, "name": "Campanha Promocional" },
-          { "id": 2, "name": "Campanha de Lançamento" }
-        ]
-      }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
