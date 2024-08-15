@@ -3,12 +3,19 @@
     {
       "id": 1,
       "title": "hello"
-    },
-	"create": {
-		"id": "teste"
-	}
+    }
   ],
   "campaigns": {
     "id": "typicode"
+  }
+   "v1": {
+    "apps": {
+      "rcs": {
+        "campaigns": [
+          { "id": 1, "name": "Campanha de Natal" }, 
+          { "id": 2, "name": "Promoção de Verão" }
+        ]
+      }
+    }
   }
 }
