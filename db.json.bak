@@ -5,7 +5,7 @@
       "title": "hello"
     }
   ],
-  "campaigns": {
+  "v1/apps/rcs/campaigns/a": {
     "id": "typicode"
   }
 }
