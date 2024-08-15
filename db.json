@@ -1,11 +1,11 @@
 {
-  "v1/apps/rcs/campaigns": [
+  "campaigns": [
     {
-      "id": 1,
+      "id": 777,
       "title": "hello"
     }
   ],
-  "campaigns": {
+  "campaignsg": {
     "id": "typicode"
   }
 }
