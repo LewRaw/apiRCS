@@ -1,14 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "campaigns": {
-    "id": "typicode"
-  }
-   "v1": {
+  "v1": {
     "apps": {
       "rcs": {
         "campaigns": [

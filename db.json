@@ -1,12 +1,20 @@
 {
-  "v1": {
-    "apps": {
-      "rcs": {
-        "campaigns": [
-          { "id": 1, "name": "Campanha de Natal" }, 
-          { "id": 2, "name": "Promoção de Verão" }
-        ]
-      }
+  "v1/apps/rcs-business-messaging/brands": [],
+  "v1/apps/rcs-business-messaging/agents": [
+    {
+      "id": 1,
+      "name": "Agent 1",
+      "brandId": 1,
+      "fallbackAgentId": null
     }
-  }
+  ],
+  "v1/apps/rcs-business-messaging/chatbots": [
+    {
+      "id": 1,
+      "name": "Chatbot 1",
+      "brandId": 1,
+      "fallbackAgentId": 1,
+      "status": "active"
+    }
+  ]
 }
