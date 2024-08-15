@@ -1,20 +1,11 @@
 {
-  "v1/apps/rcs-business-messaging/brands": [],
-  "v1/apps/rcs-business-messaging/agents": [
+  "v1/apps/rcs/campaigns": [
     {
       "id": 1,
-      "name": "Agent 1",
-      "brandId": 1,
-      "fallbackAgentId": null
+      "title": "hello"
     }
   ],
-  "v1/apps/rcs-business-messaging/chatbots": [
-    {
-      "id": 1,
-      "name": "Chatbot 1",
-      "brandId": 1,
-      "fallbackAgentId": 1,
-      "status": "active"
-    }
-  ]
+  "v1/apps/rcs/campaigns/a": {
+    "id": "typicode"
+  }
 }
