@@ -5,12 +5,7 @@
       "title": "hello"
     }
   ],
-   "campaigns": [
-    {
-      "id": 1,
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "campaigns": {
+    "id": "typicode"
   }
 }
